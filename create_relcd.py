@@ -1,12 +1,12 @@
 """
-Create SAS Formats for Individual Relationship Codes
+Create SAS Format for HIPAA Individual Relationship Codes
 
 Last Updated: February 22, 2019
 
 Purpose:
   - Retrieve the 2004 CMS crosswalk for Individual Relationship Codes.
   - Clean and export this data to SAS format tables on the SAS server.
-  - Create a CSV copy of the crosswalk to accompany these datasets.
+  - Create an Excel copy of the crosswalk to accompany these datasets.
 
  Prerequisites:
   - In addition to installing Python/Anaconda on your computer,
